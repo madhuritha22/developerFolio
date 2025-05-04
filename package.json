@@ -1,5 +1,5 @@
 {
-  "homepage": "https://madhuritha22.github.io",
+  "homepage": "https://madhuritha22.github.io/developerFolio",
   "name": "developerfolio",
   "version": "0.1.0",
   "private": true,
@@ -21,7 +21,7 @@
     "sass": "^1.32.8"
   },
   "scripts": {
-    
+
     "start": "node fetch.js && react-scripts start",
     "build": "node fetch.js && react-scripts build",
     "predeploy": "npm run build",
